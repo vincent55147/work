@@ -1,0 +1,12 @@
+E:\makeprogram\終極密碼\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+E:\makeprogram\終極密碼\WindowsApplication2\bin\Release\WindowsApplication2.exe
+E:\makeprogram\終極密碼\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+E:\makeprogram\終極密碼\WindowsApplication2\bin\Release\WindowsApplication2.xml
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.vbprojResolveAssemblyReference.cache
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.form1.resources
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.Form2.resources
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.exe
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.xml
+E:\makeprogram\終極密碼\WindowsApplication2\obj\Release\WindowsApplication2.pdb
